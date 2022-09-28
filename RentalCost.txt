@@ -1,0 +1,4 @@
+Vehicle Type,Daily Rate,Weekly Rate,Weekend Rate,Free Miles,Per Mile Charge,Daily Insurance
+Car,24.99,180.00,45.00,100,0.15,14.99
+Van,35.00,220.00,55.00,0,0.20,20.99
+Truck,34.95,425.00,110.00,25,0.25,20.96

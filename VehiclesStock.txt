@@ -1,0 +1,22 @@
+Vehicle Type,Make/Model,Miles per Gallon,Num Passengers,Num Doors,Cargo Space,VIN
+Car,Chevrolet Camaro,30,4,2,,WG8JM5492DY
+Car,Chevrolet Camaro,30,4,2,,KH4GM4564GD
+Car,Ford Fusion,34,5,4,,AB4FG5690GM
+Car,Ford Fusion Hybrid,35,5,4,,GH2KL4278TK
+Car,Ford Fusion Hybrid,32,5,4,,KU4EG3245RW
+Car,Chevrolet Impala,36,6,4,,QD4PK7394JI
+Car,Chevrolet Impala,30,6,4,,RK3BM4256YH
+Van,Chrysler Town&Country,25,7,,,DK3KG8312UE
+Van,Chrysler Town&Country,25,7,,,VM9RE2645TD
+Van,Chrysler Town&Country,25,7,,,WK8BF4287DX
+Van,Dodge Caravan,25,7,,,QK3FL4278ME
+Van,Dodge Caravan,25,7,,,KY8EW2053XT
+Van,Ford Expedition,20,8,,,JK2RT8364HY
+Van,Ford Expedition,20,8,,,KH4ME4216XW
+Truck,Ten-Foot,12,,,1,EJ5KU2435BC
+Truck,Ten-Foot,12,,,1,KF8JP7293EK
+Truck,Seventeen-Foot,10,,,2,KG4DM5472RK
+Truck,Seventeen-Foot,10,,,2,PR8JH4893WQ
+Truck,Twenty-Four-Foot,8,,,4,EP2WR3182QB
+Truck,Twenty-Four-Foot,8,,,4,TY3GH4290EK
+Truck,Twenty-Four-Foot,8,,,4,KU9FL4235RH
